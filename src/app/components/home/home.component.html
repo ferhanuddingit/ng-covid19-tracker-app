@@ -1,0 +1,20 @@
+<div class="ui inverted dimmer">
+  <div class="ui text loader">Loading</div>
+</div>
+<div class="jumbotron bg-white text-center p-0 m-0">
+  <h1 class="display-4">Corona Covid-19 Tracker</h1>
+  <hr>
+  <app-dashboard-card [totalConfirmed]='totalConfirmed' [totalActive]='totalActive' [totalRecovered]='totalRecovered'
+    [totalDeaths]='totalDeaths'></app-dashboard-card>
+</div>
+<hr>
+<div class="ui form">
+  <div class="row">
+    <div class="col">
+      <google-chart [data]='pieChart' style="width: 100%;"></google-chart>
+    </div>
+    <div class="col">
+      <google-chart [data]='columnChart' style="width: 100%;"></google-chart>
+    </div>
+  </div>
+</div>

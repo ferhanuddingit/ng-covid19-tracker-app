@@ -1,0 +1,23 @@
+YouTube : 
+https://www.youtube.com/watch?v=hPJMa1A-VNg&frags=pl%2Cwn
+
+RegEx :
+https://regexr.com/
+
+Github : 
+https://github.com/virendrapatel62/Co...
+
+Data API : 
+https://github.com/CSSEGISandData/COV...
+
+Angular : 
+https://angular.io/guide/setup-local
+
+Node js : 
+https://nodejs.org/en/
+
+Ng2-Semantic Ui: 
+https://edcarroll.github.io/ng2-seman...
+
+Bootstrap : 
+https://valor-software.com/ngx-bootst...
